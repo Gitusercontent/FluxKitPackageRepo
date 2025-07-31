@@ -1,8 +1,0 @@
-{
-  "name": "Discord",
-  "version": "1.0.0",
-  "starting_file": "bin/main.py",
-  "assets": ["assets/icon.png"],
-  "dependencies": ["PyQt5"],
-  "tags": ["gui", "communication"]
-}
